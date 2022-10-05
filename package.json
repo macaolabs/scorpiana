@@ -11,8 +11,11 @@
     "dev": "yarn start & yarn ios"
   },
   "dependencies": {
+    "@types/matter-js": "^0.18.2",
+    "matter-js": "^0.18.0",
     "react": "18.1.0",
     "react-native": "0.70.2",
+    "react-native-game-engine": "^1.2.0",
     "socket.io-client": "^4.5.2"
   },
   "devDependencies": {
